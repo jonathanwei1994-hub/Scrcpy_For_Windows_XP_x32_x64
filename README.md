@@ -7,6 +7,8 @@ Application: Scrcpy_For_Windows_XP_x32_x64_Application-EXE.rar
 
 
 
+![Uploading screenshot-debian-600.jpg…]()
 
 
-<img src=https://github.com/Genymobile/scrcpy/blob/master/assets/screenshot-debian-600.jpg" />
+
+
