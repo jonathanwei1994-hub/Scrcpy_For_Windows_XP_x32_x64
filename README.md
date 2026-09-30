@@ -1,0 +1,2 @@
+# Scrcpy_For_Windows_XP_x32_x64
+Scrcpy_For_Windows_XP_x32_x64
